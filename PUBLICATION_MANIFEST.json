@@ -1,0 +1,564 @@
+{
+  "sourceSnapshot": "brand-assistant-prod@133885f",
+  "items": [
+    {
+      "path": ".env.example",
+      "source": "generated blank template",
+      "bytes": 242,
+      "sha256": "2364a204e55069e4b498f97e2da07b80c7213d22867c2b820baf3fbdf9c2a26c"
+    },
+    {
+      "path": ".gitignore",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 550,
+      "sha256": "4f3385f9a48fd2ad48730b9866e0c4a91a5366e423afb2d48437122435d33660"
+    },
+    {
+      "path": "AGENTS.md",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 679,
+      "sha256": "063098f6cb31bb44c6f8fbea25b3876de7ee1e5f7d00a50dbab506f6415eb7f0"
+    },
+    {
+      "path": "README.md",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 5058,
+      "sha256": "176db26cd9922adc16b7385d892b98db9e86b93e73f6fa8d82d2e47f5d10ece3"
+    },
+    {
+      "path": "archive/README.md",
+      "source": "publication documentation",
+      "bytes": 749,
+      "sha256": "257fb07c64c5102eb5a4621f91856e2c29304dbe6dbd0dee38f64c6181bbf691"
+    },
+    {
+      "path": "archive/deployment/EdgeOne部署记录.json",
+      "source": "historical deployment notes, sanitized",
+      "bytes": 1821,
+      "sha256": "d57e03e86716875f801fc19c20766ef8bf52e2f082a6f1a4076868a97f2af503"
+    },
+    {
+      "path": "archive/deployment/给ChatGPT的指令_正式版改造与重新部署.md",
+      "source": "historical deployment notes, sanitized",
+      "bytes": 15387,
+      "sha256": "a71c59eb2780b9a57b8a9a201ec273c16d6c4086231e6ec7dcb57fb462097e3c"
+    },
+    {
+      "path": "archive/deployment/给ChatGPT的部署指令.md",
+      "source": "historical deployment notes, sanitized",
+      "bytes": 6448,
+      "sha256": "02e40df732209338bd50b068bf26eb1c3cfc2e2e7917e3486c3aa2fabd7b4e85"
+    },
+    {
+      "path": "archive/source/brand-assistant-edgeone-snapshot.zip",
+      "source": "read-only sanitized legacy snapshot",
+      "bytes": 150769,
+      "sha256": "9aabfea9d0f27d6517d1b257ff457b672ce60af484d048f51f9d7ab98bd35b19"
+    },
+    {
+      "path": "archive/source/brand-assistant-snapshot.zip",
+      "source": "read-only sanitized legacy snapshot",
+      "bytes": 146666,
+      "sha256": "54adcefeca3dddd621267674fc46800ba10ae74b02d1d54b965d16ebef474191"
+    },
+    {
+      "path": "deploy/setup.sh",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 6778,
+      "sha256": "cf47149e7c0554d718c2fc8c68fddc9a122870b569081cfd3d06eb903bbf72f9"
+    },
+    {
+      "path": "deploy/正式版托管说明.md",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 2279,
+      "sha256": "f84e7b363a00e69c7e957a49470c72833d2bd46540be58ccec01159fda3e939e"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "source": "publication documentation",
+      "bytes": 8450,
+      "sha256": "3a49b18daf94ba30db2d98d21972b7ba5b2b5b7781651b943a1e33b6ac3022cb"
+    },
+    {
+      "path": "docs/GETTING_STARTED.md",
+      "source": "publication documentation",
+      "bytes": 2772,
+      "sha256": "72325164beef27f183be552152dfd4340c033e1f7f4d2755b1e729177e6cb706"
+    },
+    {
+      "path": "docs/MATERIALS.md",
+      "source": "publication documentation",
+      "bytes": 2106,
+      "sha256": "56a57982c2c32d4cd8cacef935fb43d7cd158370c5fac36051da4e6de394c6be"
+    },
+    {
+      "path": "docs/assets/正式版-线上独立问题检索.jpg",
+      "source": "real application UI verification",
+      "bytes": 113756,
+      "sha256": "7d01f4ab01c91dc0eb19953a05c48d78370aa688b1a2c4dfda7c65041a23c712"
+    },
+    {
+      "path": "docs/assets/正式版-线上独立问题概览.jpg",
+      "source": "real application UI verification",
+      "bytes": 115655,
+      "sha256": "0534f2534e2e98464140968920f83be96b396978f5356a0e4d51c9ac5f92876a"
+    },
+    {
+      "path": "docs/assets/正式版-线上示例检索.jpg",
+      "source": "real application UI verification",
+      "bytes": 106322,
+      "sha256": "99a8ca87ecf6538de7a1d8b0dd39c7d1a1ac12159ecc548010a3a291467eef06"
+    },
+    {
+      "path": "docs/assets/正式版-线上空看板.jpg",
+      "source": "real application UI verification",
+      "bytes": 35763,
+      "sha256": "4a7887fc0b43d3b7b976b7d053d6b891102206cdd9d0750264e6efa04f0c55c1"
+    },
+    {
+      "path": "docs/product-design/00_给队友的阅读说明.md",
+      "source": "product design v3",
+      "bytes": 1646,
+      "sha256": "87788804989010c31c6cf1b20c790fa219201ec5331e66ea621c1e086c530d95"
+    },
+    {
+      "path": "docs/product-design/产品流程与责任_v3.png",
+      "source": "product design v3",
+      "bytes": 341516,
+      "sha256": "940c10ad23713cf14476b8857d5cbe629761fe95cba8c7615d50d80414635505"
+    },
+    {
+      "path": "docs/product-design/产品流程与责任_v3.svg",
+      "source": "product design v3",
+      "bytes": 12270,
+      "sha256": "059e330e9600acae7ad359979ce4e2a271329b31d531e918f466de945c8d0af3"
+    },
+    {
+      "path": "docs/product-design/医学问询产品设计_v3.docx",
+      "source": "product design v3",
+      "bytes": 353934,
+      "sha256": "88275d45cd1af575da1b1c143f1217d60697e89580fe015f125afc27f320f38f"
+    },
+    {
+      "path": "docs/product-design/医学问询产品设计_v3.html",
+      "source": "product design v3",
+      "bytes": 24248,
+      "sha256": "ca7a32249993385cc7e2386f584883425cd1be4e5990b72b5078fd379c224b3d"
+    },
+    {
+      "path": "docs/product-design/医学问询产品设计_v3.md",
+      "source": "product design v3",
+      "bytes": 21493,
+      "sha256": "c239b6a33a51cfaac343169c702c5f0122eaf6033e54289e76423b6dc47e1380"
+    },
+    {
+      "path": "docs/product-design/医学问询产品设计_v3.pdf",
+      "source": "product design v3",
+      "bytes": 974724,
+      "sha256": "ed8cc57eba5376155f820937dc22aae0b964dc1e1ee841aa8832f8ae9e1fceb0"
+    },
+    {
+      "path": "docs/verification-result.json",
+      "source": "verified production API and UI results, sanitized",
+      "bytes": 594,
+      "sha256": "529cecbdb1fcbf85ab7cba60cb69a79d4c6c437d6f6ce8acf42b6d0a7b76e5c2"
+    },
+    {
+      "path": "docs/verification.md",
+      "source": "verified production delivery record, sanitized",
+      "bytes": 5548,
+      "sha256": "0a748d80a4fe6baae2acea2f1bb56f94d3c52fec0d57d4d2a251ff2cbbf39da1"
+    },
+    {
+      "path": "edgeone.json",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 176,
+      "sha256": "dfe3185d2e977db1ce18f1edb1c4b2ee6bec2c250f2b9d4b6d3f45fcfeb4e821"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 465,
+      "sha256": "870f1adccecf3051cbcd9fd307cef51d7633cf510979c181a81f4b1797273493"
+    },
+    {
+      "path": "materials/pitch/README.md",
+      "source": "publication documentation",
+      "bytes": 768,
+      "sha256": "08addbefb3be12a779384e8fb306277c5263e2e7b36a2e92b690d0c00354f042"
+    },
+    {
+      "path": "materials/pitch/历史路演截图.zip",
+      "source": "historical application screenshots",
+      "bytes": 7250460,
+      "sha256": "8f4e8fd3606c52a8d003019b7f132010829902473b76096f733fcc964353ac57"
+    },
+    {
+      "path": "materials/pitch/品牌沟通助手_演示视频.mp4",
+      "source": "historical pitch material",
+      "bytes": 21740717,
+      "sha256": "7f22e7df7290180ec0bf89882ade59ab424a426a9d0bb57b20b3f522e27745fa"
+    },
+    {
+      "path": "materials/pitch/品牌沟通助手_路演.pptx",
+      "source": "historical pitch material",
+      "bytes": 2073085,
+      "sha256": "31be4ebfedb63076c35a0712ffd9dc4d557cbb5c78b6e402e6cd8047b7205198"
+    },
+    {
+      "path": "next.config.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 286,
+      "sha256": "8f4e35c217ea7424c135956faa0909ab17d86c52f74d805b2452d69bd1f8399f"
+    },
+    {
+      "path": "package-lock.json",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 245487,
+      "sha256": "9c217e96c4f5c72920319cd7e7dd170778e308a01937f4e939aa25a3c96048e7"
+    },
+    {
+      "path": "package.json",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 756,
+      "sha256": "5a7a88e13c1a47fcd48eb2f06a2444e2b1ac74cf3b9b0c71df100099ad5abbe5"
+    },
+    {
+      "path": "public/file.svg",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 391,
+      "sha256": "2b67812c325c199a02536cdbeea0c593a72f707d323b72ee3e08dbab06753bd4"
+    },
+    {
+      "path": "public/globe.svg",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 1035,
+      "sha256": "b614b9bf183925957661ac851498fe1d8029fd43a62fbfed86f9e2624a57e7cf"
+    },
+    {
+      "path": "public/next.svg",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 1375,
+      "sha256": "55995dfad6ecb4945a1e856ddca03c5e16aa5bf13fd21b4df6a74ae79357bcfc"
+    },
+    {
+      "path": "public/vercel.svg",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 128,
+      "sha256": "f081337b2fee635b455b63275406a3e7f39d6a014e25ad90dab5a67e62a12ac4"
+    },
+    {
+      "path": "public/window.svg",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 385,
+      "sha256": "644768c4aaeb4767bce293344eeb0c125fb804a94d801440424072202d85e3a1"
+    },
+    {
+      "path": "scripts/check-evidence-live.mjs",
+      "source": "read-only acceptance probe",
+      "bytes": 1725,
+      "sha256": "c267f71ed6eb49fdec1e407f29b35690371a31d70e55a6229910424efebb94f0"
+    },
+    {
+      "path": "scripts/check-pubmed.mjs",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 5028,
+      "sha256": "703b036a7572ba07ba72003e83d06999d80ff1c656178f2495a90c757ec105cf"
+    },
+    {
+      "path": "src/app/(app)/kb/page.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 10745,
+      "sha256": "70b91ffe94b14fdd6dda6fe29357981e8204b19d23069d1fa02924435074622c"
+    },
+    {
+      "path": "src/app/(app)/layout.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 171,
+      "sha256": "1e37e1e1133474368a06d406ff21e86a37a774ca38be4814913b37819b8b4950"
+    },
+    {
+      "path": "src/app/(app)/new/page.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 6401,
+      "sha256": "f36c787e167f1b51d068cb20c7c9f4238f08339c72dd8aa343b0e6f7afa03b65"
+    },
+    {
+      "path": "src/app/(app)/task/[id]/page.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 5467,
+      "sha256": "697d991146211ab7c632860262844a666dfcf1d64b4f11bef38c326e3cccc968"
+    },
+    {
+      "path": "src/app/(app)/tasks/page.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 6266,
+      "sha256": "0ff8bf3ddadfdf9bb7bb5677845ab025fc6acfe635a1f1150e0ddd2575ffc567"
+    },
+    {
+      "path": "src/app/api/check/route.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 2198,
+      "sha256": "69f0baf6bb023890667e27d998cc6439569bd1cbd0cb1d8c253b7c3afd292d43"
+    },
+    {
+      "path": "src/app/api/clarify/route.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 4169,
+      "sha256": "02640515aa9f085b7d7e3212c6f8ea6aef464a8a73a966b9cc7214b198782a8b"
+    },
+    {
+      "path": "src/app/api/evidence/route.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 7949,
+      "sha256": "296f11e0914b24e41e115662097cfb805e2e43a8fabe2e0ce420f815113776c6"
+    },
+    {
+      "path": "src/app/api/material/route.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 2072,
+      "sha256": "4390ac6c0e8a699488d876b2def6091dc718c35c60c4adf02383cfe41d0d7958"
+    },
+    {
+      "path": "src/app/favicon.ico",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 15086,
+      "sha256": "c28fdd2a4f31e2dc64f653962286da5c82a4cdfc518b242d32812c624e9a19a4"
+    },
+    {
+      "path": "src/app/globals.css",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 801,
+      "sha256": "9cb70dbad00b9a2b7b14901953bedc8213b475ecd38819c1514bc66078d1867d"
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 711,
+      "sha256": "259d2696320cc0deba0cbe3879f943a7ac7d04f17807e1a2e2a56d6e8305d180"
+    },
+    {
+      "path": "src/app/page.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 14611,
+      "sha256": "212ff28ad61d4e8292be51819fca6c46353bc3076d76fbf21ade521aedc97de2"
+    },
+    {
+      "path": "src/components/AIOverlay.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 3410,
+      "sha256": "b416351f9d1f910a1d3f570e70f114354ba7721d6a4834d000ac091624ae3393"
+    },
+    {
+      "path": "src/components/Evidence.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 6755,
+      "sha256": "7729a0d6dfe3717b841fb26af187d83900693981055a7abd1da515fb8e99a63b"
+    },
+    {
+      "path": "src/components/Header.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 2754,
+      "sha256": "3be2d92dc5dbd20dd0e819360548cf93799853d4ed48672c808c48b4ce00c1c5"
+    },
+    {
+      "path": "src/components/NeedsSummary.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 721,
+      "sha256": "5f2281ca749aace41c2fbe5f3fcef670b321ddd01336d6e2cf5d2b40905e7ec5"
+    },
+    {
+      "path": "src/components/Toasts.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 1235,
+      "sha256": "00955b3aa153a1dd5abece5d7055cb421e09dc9088f54faa39e0af36c6f437fd"
+    },
+    {
+      "path": "src/components/steps/History.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 1721,
+      "sha256": "757a016a1c7f9d006e9dcf6f0f90a02b0faac80ee1c05739b19352b99308e04a"
+    },
+    {
+      "path": "src/components/steps/Step1Clarify.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 11458,
+      "sha256": "76b9cc7cad2f9b15d3016ba3cd9306201bc1211c585258e98530a290bae34324"
+    },
+    {
+      "path": "src/components/steps/Step2Evidence.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 4926,
+      "sha256": "d729fa1cc63abf217b626f928c629bf164c8043637484e25ce090c3fbf0b47a3"
+    },
+    {
+      "path": "src/components/steps/Step3Answer.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 11913,
+      "sha256": "2a8116c2d3367bc7331b4c42cff79c5fe431c3186201af47de1af6002cd4e91a"
+    },
+    {
+      "path": "src/components/steps/Step4Check.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 12491,
+      "sha256": "6427f9b5e4c70849cc10f4be2ff20f8b46144b3596cbc2f13ccb340ad5e8749b"
+    },
+    {
+      "path": "src/components/steps/Step5Material.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 9900,
+      "sha256": "ae6a3497f2e2e55617d5c36d8931e13bf2bda2eb1d758b146963c38d8322f002"
+    },
+    {
+      "path": "src/components/steps/Step6Feedback.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 8809,
+      "sha256": "73832e915a97a15cc9f6e22b6d9cf96aec5ae948414f4e939af83d149573d110"
+    },
+    {
+      "path": "src/components/ui.tsx",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 5051,
+      "sha256": "c3d8fa1331a22adbb3252e64190226e58f8ec6ed44c60050a8748a868506ef86"
+    },
+    {
+      "path": "src/lib/actions.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 6766,
+      "sha256": "4b1c115292e0d49cd97dae011b57950895ca9f5e5540a46b952bd04b3119271e"
+    },
+    {
+      "path": "src/lib/demo.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 504,
+      "sha256": "53335261629ba784e57d28672e99c40fc0fc1b4b2d946d6a47dbb1a47163bbe6"
+    },
+    {
+      "path": "src/lib/fallback.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 10194,
+      "sha256": "066f176e9eae32414a9c809e89e6f012bb4aeb9e7d010c6eec1280cf6877f373"
+    },
+    {
+      "path": "src/lib/flow.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 3038,
+      "sha256": "18b0e1486cd097d765fd57f0d80b679a5e271088b35be9a09e6cabd1c81f5bb4"
+    },
+    {
+      "path": "src/lib/llm.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 2434,
+      "sha256": "ff8dfb710a9d4f077e8f4e47a2c25958eb53a5b8810a1fbebeb321aac66d2f0c"
+    },
+    {
+      "path": "src/lib/pubmed.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 9756,
+      "sha256": "8ffc1afc5cbbe8fc858c4743664eec995e5f51b26585832cc4d29a0f5ae84d2b"
+    },
+    {
+      "path": "src/lib/seed.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 215,
+      "sha256": "b8d19372fc8a0150c95b65e6ca06d32df3145e5d308eafd86f314b773fca47c2"
+    },
+    {
+      "path": "src/lib/sources.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 6419,
+      "sha256": "42f006faafc9ae7ac6c15728bee92a48f3b645fb9e172eb9148f24dcb50277a5"
+    },
+    {
+      "path": "src/lib/store.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 3064,
+      "sha256": "ab31fdd3afc15b044318abf1605d0686ae616dc4762c1f362f11433927bbb7e5"
+    },
+    {
+      "path": "src/lib/types.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 5557,
+      "sha256": "750cca2765991a22215df9f5065c860ca91cfdf2bb291df270a1724485f3e95b"
+    },
+    {
+      "path": "src/lib/ui.ts",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 2789,
+      "sha256": "c304793b260e029307f03901f660f25bce9c88b467933a4b8c15cf47323509c4"
+    },
+    {
+      "path": "tools/README.md",
+      "source": "publication documentation",
+      "bytes": 826,
+      "sha256": "677ab3e885fed74002753f15f571dffcc2775d7d9d7e9c34549ec1d137321f0b"
+    },
+    {
+      "path": "tools/deck-tools/build_deck.js",
+      "source": "historical material-generation tool",
+      "bytes": 30535,
+      "sha256": "5f9bdfc646372899ce0ac17c8ad12080dc0e4432287dd5b352f8d2a0b1b2eaba"
+    },
+    {
+      "path": "tools/deck-tools/package-lock.json",
+      "source": "historical material-generation tool",
+      "bytes": 28156,
+      "sha256": "095ae32875fd90a80a7bd061bda3e04d8f6ced5ca2e1dfbe034e50966c0e1398"
+    },
+    {
+      "path": "tools/deck-tools/package.json",
+      "source": "historical material-generation tool",
+      "bytes": 402,
+      "sha256": "9122a96ea226793c04e265697544f7ed118d534f7e92326cd1ffe766b3a6f94c"
+    },
+    {
+      "path": "tools/video-tools/package-lock.json",
+      "source": "historical material-generation tool",
+      "bytes": 5189,
+      "sha256": "43687768c10c955b3fbe3f6fc9c1ef6dfcc67cfb91856fbb3a193419a2822055"
+    },
+    {
+      "path": "tools/video-tools/package.json",
+      "source": "historical material-generation tool",
+      "bytes": 347,
+      "sha256": "a2d7b2c21669ef7342ca48fd503e51d04dc04c5a9dce24bbf51ed9e7dc6c09fe"
+    },
+    {
+      "path": "tools/video-tools/record.mjs",
+      "source": "historical material-generation tool",
+      "bytes": 2718,
+      "sha256": "5c88bc5e94866ec6019704a82af45105380cf8c8d26a9f1d0ca4dc480bec1b20"
+    },
+    {
+      "path": "tools/video-tools/shots.mjs",
+      "source": "historical material-generation tool",
+      "bytes": 3923,
+      "sha256": "d934b185402664bb5cb6db4523848aecfd4e629e4479818426016b04a6b84c64"
+    },
+    {
+      "path": "tsconfig.json",
+      "source": "brand-assistant-prod@133885f",
+      "bytes": 670,
+      "sha256": "5c51df4c59f4510d8c7dadf07a5c32132228826a3b331da5e286207b4df7ef9c"
+    }
+  ],
+  "excluded": [
+    "All .env files except generated blank .env.example",
+    "Git histories",
+    "node_modules and build caches",
+    "Cloud-console screenshots and raw account logs",
+    "Obsolete prebuilt deployment ZIP, reproducible from source"
+  ],
+  "notes": [
+    "Original local source and demo directories were not modified.",
+    "Local usernames, contact addresses and cloud instance identifiers were sanitized in public copies.",
+    "Historical media and design documents are separate from current production verification."
+  ],
+  "fileCount": 91,
+  "validation": {
+    "credentialsPatterns": "passed",
+    "archiveIntegrity": "passed",
+    "relativeLinks": "passed",
+    "runtimeSourceMatchesDeployedSnapshot": true
+  }
+}

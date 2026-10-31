@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "cloudFunctions": {
+    "maxDuration": 120,
+    "regions": {
+      "overseas": ["ap-hongkong"]
+    }
+  }
+}
