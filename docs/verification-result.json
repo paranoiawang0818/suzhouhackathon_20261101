@@ -1,0 +1,28 @@
+{
+  "deployment": "<deployment-id>",
+  "commit": "133885f",
+  "site": "https://soochowhackathon261101.noiamist.com",
+  "example": {
+    "task": "T0ubbdbb",
+    "observedCompleteWithinSeconds": 35.18,
+    "pubmedCount": 4,
+    "queries": 4,
+    "pmid40421736": true,
+    "aiLive": true,
+    "via": "Europe PMC"
+  },
+  "independent": {
+    "task": "Tw7yz96s",
+    "observedCompleteWithinSeconds": 32.507,
+    "aiLive": true,
+    "pubmedCount": "4",
+    "queryCount": 3,
+    "pmids": [
+      "42901325",
+      "42602345",
+      "42851802",
+      "42820470"
+    ],
+    "europePmcLabel": true
+  }
+}
