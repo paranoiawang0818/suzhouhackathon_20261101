@@ -1,0 +1,46 @@
+{
+  "project_name": "soochowhackathon261101",
+  "project_id": "<edgeone-project-id>",
+  "deployment_id": "<deployment-id>",
+  "provider": "Tencent Cloud EdgeOne Makers",
+  "acceleration_region": "全球可用区（不含中国大陆）",
+  "target_domain": "soochowhackathon261101.noiamist.com",
+  "status": "redeploying_with_user_key",
+  "archive_sha256": "c3cfb1ecc8cff12fbf3bc9804089c58be88eb0f2ea50ad149541b28a22450658",
+  "key_configured": false,
+  "dns_modified": true,
+  "verification": {
+    "local_build": "passed",
+    "typescript": "passed",
+    "archive_integrity": "passed",
+    "remote_browser": "temporary_url_homepage_passed",
+    "live_ai": "pending"
+  },
+  "temporary_url": "https://soochowhackathon261101-23ltzkm7.edgeone.dev/",
+  "ownership_verification": {
+    "type": "TXT",
+    "host": "edgeonereclaim.soochowhackathon261101",
+    "value": "<domain-verification-value>",
+    "ttl": 600,
+    "approval": "approved",
+    "saved": true,
+    "verified": true
+  },
+  "dns_existing_records_checked": true,
+  "dns_scope_approved": "正式域名所需的验证与绑定记录",
+  "key_entry_reported_by_user": true,
+  "key_runtime_verification": "pending redeployment and live AI UI check",
+  "cname": {
+    "host": "soochowhackathon261101",
+    "type": "CNAME",
+    "value": "soochowhackathon261101.noiamist.com.pages.dnsoe5.com",
+    "status": "active_in_console"
+  },
+  "https": "free_certificate_issuing",
+  "previous_deployment_id": "<deployment-id>",
+  "network_check_initial": {
+    "cname": "soochowhackathon261101.noiamist.com.pages.dnsoe5.com.",
+    "txt": "\"<domain-verification-value>\"",
+    "https_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'soochowhackathon261101.noiamist.com'. (_ssl.c:1129)>"
+  }
+}
